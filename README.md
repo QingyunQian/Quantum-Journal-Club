@@ -1,5 +1,5 @@
 # Quantum Journal Club
-Materials for quantum journel club at Hong Kong University of Science and Technology (Guangzhou)
+Materials for quantum journal club at Hong Kong University of Science and Technology (Guangzhou)
 
 SomeLocation, Weely starting from SomeTime
 
